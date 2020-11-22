@@ -46,9 +46,9 @@ td, th {
   height: 250px;
   border-radius: 50%;
   background-image: conic-gradient(
-      pink 70deg,
-      lightblue 0 235deg,
-      orange 0);
+    #248ce4 0 240deg,
+
+    #394d5f 0deg);
 }
 
 body,

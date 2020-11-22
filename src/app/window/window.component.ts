@@ -17,6 +17,7 @@ export class WindowComponent implements OnInit {
     this.router.navigateByUrl('form');
   }
   listview(){
+    const users = JSON.parse(localStorage.getItem("registrationData") || "[]");
     console.log("hello")
     this.router.navigateByUrl('listview');
   }
