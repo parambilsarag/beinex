@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "assignment-beinex"
+    }
+  },
+  "defaultProject": "assignment-beinex",
+  "cli": {
+    "analytics": "5bf6a37f-c4b6-458e-ba53-87c5d2525c11"
+  }
 }
